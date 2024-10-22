@@ -4,3 +4,4 @@
 # Ir a la terminal de los archivos
 # Poner (cd Coder)
 # Poner en la terminarl una vez dentro de el archivo Coder (python3 manage.py runserver)
+# Video de youtube ( https://youtu.be/Ux19cZXVPig )
